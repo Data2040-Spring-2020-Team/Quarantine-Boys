@@ -1,5 +1,7 @@
-# Quarantine-Boys
+# Face Detection and Facial Attributes Prediction
+
 This is Data 2040 Spring 2020 final course project at Brown University.
+Team: Quarantine-Boys
 
 Author: Hanxiao Chen, Zhe Huang, Yi Wang, Weihao Zhou
 
