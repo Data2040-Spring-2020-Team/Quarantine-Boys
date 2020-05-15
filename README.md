@@ -7,8 +7,9 @@ Author: Hanxiao Chen, Zhe Huang, Yi Wang, Weihao Zhou
 
 Initial Blog Post Link: https://medium.com/@yi_wang2/age-and-gender-recognition-on-facial-images-initial-blog-post-edf40e90ee28
 
-Medway and Final Blog Post Link: 
+Medway and Final Blog Post Link: https://medium.com/@yi_wang2/3c78ee6b43da
 
+Screencast Link:
 
 
 
