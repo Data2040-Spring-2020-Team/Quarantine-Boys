@@ -4,7 +4,7 @@ This is the Spring 2020 DATA 2040 final course project at Brown University.
 
 Team Quarantine-Boys, Brown University DSI
 
-Authors: Hanxiao Chen, Zhe Huang, Yi Wang, Weihao Zhou
+Authors: Hanxiao Chen, Weihao Zhou, Yi Wang, Zhe Huang
 
 Initial blog post: https://bit.ly/3cyz5Fv
 
