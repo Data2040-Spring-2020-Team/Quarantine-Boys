@@ -10,9 +10,7 @@ Initial blog post: https://bit.ly/3cyz5Fv
 
 Final blog lost: https://bit.ly/2WXJNPp
 
-Screencast:
-
-
+Screencast: https://bit.ly/2T9V2mO
 
 
 ## Code Reference
